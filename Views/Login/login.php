@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Abel OSH">
-    <meta name="theme-color" content="#009688">
-    <link rel="shortcut icon" href="<?= media();?>/images/favicon.ico">
+    <meta name="author" content="Victor, Eden Andres">
+    <meta name="theme-color" content="#00A6D4">
+    <link rel="shortcut icon" href="<?= media();?>/images/sutec-logo2.png">
     <!-- Main CSS-->
     <link rel="stylesheet" type="text/css" href="<?= media();?>/css/main.css">
     <link rel="stylesheet" type="text/css" href="<?= media();?>/css/style.css">
@@ -19,7 +19,7 @@
     </section>
     <section class="login-content">
       <div class="logo">
-        <h1><?= $data['page_title']; ?></h1>
+        <center><h1><a href="<?= base_url(); ?>"><img class="" src="<?= media();?>/images/Logo2.png" width="235" height="111" alt=""></a> </h1></center>
       </div>
       <div class="login-box">
         <div id="divLoading" >

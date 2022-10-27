@@ -18,7 +18,7 @@ class Paginas extends Controllers{
 			header("Location:".base_url().'/dashboard');
 		}
 		$data['page_tag'] = "Páginas";
-		$data['page_title'] = "PÁGINAS <small>Tienda Virtual</small>";
+		$data['page_title'] = "PÁGINAS <small>SUTEC3D</small>";
 		$data['page_name'] = "paginas";
 		$data['page_functions_js'] = "functions_paginas.js";
 		$this->views->getView($this,"paginas",$data);

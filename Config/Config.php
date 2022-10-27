@@ -1,9 +1,9 @@
 <?php 
-	const BASE_URL = "http://localhost/profin";
-	//const BASE_URL = "http://localhost/profin";
+	const BASE_URL = "http://localhost/SUTEC3D";
+	//const BASE_URL = "http://localhost/SUTEC3D";
 
 	//Zona horaria
-	date_default_timezone_set('America/Guatemala');
+	date_default_timezone_set('America/Mexico_City');
 
 	//Datos de conexión a Base de Datos
 	const DB_HOST = "localhost";
@@ -34,22 +34,22 @@
 	//const SECRET = "";
 
 	//Datos envio de correo
-	const NOMBRE_REMITENTE = "Tienda Virtual";
-	const EMAIL_REMITENTE = "no-reply@abelosh.com";
-	const NOMBRE_EMPESA = "Tienda Virtual";
-	const WEB_EMPRESA = "www.abelosh.com";
+	const NOMBRE_REMITENTE = "SUTEC3D";
+	const EMAIL_REMITENTE = "sutec.st@gmail.com";
+	const NOMBRE_EMPESA = "SUTEC3D";
+	const WEB_EMPRESA = "www.sutec3d.com";
 
-	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
-	const SHAREDHASH = "TiendaVirtual";
+	const DESCRIPCION = "La mejor tienda en línea con artículos de electronica";
+	const SHAREDHASH = "SUTEC3D";
 
 	//Datos Empresa
-	const DIRECCION = "Avenida las Américas Zona 13, Guatemala";
-	const TELEMPRESA = "+(502)78787845";
-	const WHATSAPP = "+50278787845";
-	const EMAIL_EMPRESA = "info@abelosh.com";
-	const EMAIL_PEDIDOS = "info@abelosh.com"; 
-	const EMAIL_SUSCRIPCION = "info@abelosh.com";
-	const EMAIL_CONTACTO = "info@abelosh.com";
+	const DIRECCION = "Avenida Universidad Nte #5 Secc. 1ra Zacatelco CP. 90740";
+	const TELEMPRESA = "+(52) 222 710 6510";
+	const WHATSAPP = "+(52) 222 710 6510";
+	const EMAIL_EMPRESA = "sutec.st@gmail.com";
+	const EMAIL_PEDIDOS = "sutec.st@gmail.com"; 
+	const EMAIL_SUSCRIPCION = "sutec.st@gmail.com";
+	const EMAIL_CONTACTO = "sutec.st@gmail.com";
 
 	const CAT_SLIDER = "1,2,3";
 	const CAT_BANNER = "4,5,6";
