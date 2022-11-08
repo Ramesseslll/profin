@@ -1,5 +1,5 @@
 <?php 
-	const BASE_URL = "http://localhost/SUTEC3D";
+	const BASE_URL = "http://localhost/profin";
 	//const BASE_URL = "http://localhost/SUTEC3D";
 
 	//Zona horaria
